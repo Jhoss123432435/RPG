@@ -7843,6 +7843,12 @@
     },
     "done": true
   },
+  "obs:ob/glistening": {
+    "criteria": {
+      "requirement": "2025-05-30 20:24:07 +0000"
+    },
+    "done": true
+  },
   "obs:ob/iron": {
     "criteria": {
       "requirement": "2025-05-30 19:59:06 +0000"
@@ -7881,7 +7887,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "rotten_flesh": "2025-05-30 20:11:07 +0000"
+      "rotten_flesh": "2025-05-30 20:11:07 +0000",
+      "dried_kelp": "2025-05-30 20:30:22 +0000"
     },
     "done": false
   },

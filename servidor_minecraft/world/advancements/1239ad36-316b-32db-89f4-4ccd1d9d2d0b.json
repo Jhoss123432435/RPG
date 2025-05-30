@@ -7811,6 +7811,12 @@
     },
     "done": true
   },
+  "obs:ob/glistening": {
+    "criteria": {
+      "requirement": "2025-05-30 20:22:20 +0000"
+    },
+    "done": true
+  },
   "obs:ob/iron": {
     "criteria": {
       "requirement": "2025-05-30 19:49:37 +0000"
