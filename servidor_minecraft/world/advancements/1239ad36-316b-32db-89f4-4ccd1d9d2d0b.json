@@ -7769,9 +7769,21 @@
     },
     "done": true
   },
+  "obs:ob/sapling": {
+    "criteria": {
+      "requirement": "2025-05-30 19:42:30 +0000"
+    },
+    "done": true
+  },
   "obs:ob/cobblemania": {
     "criteria": {
       "requirement": "2025-05-30 19:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-30 19:39:03 +0000"
     },
     "done": true
   },
