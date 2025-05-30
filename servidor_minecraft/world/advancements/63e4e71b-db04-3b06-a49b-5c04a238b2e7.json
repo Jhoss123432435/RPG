@@ -7799,9 +7799,22 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-05-30 20:09:56 +0000",
+      "minecraft:zombie_villager": "2025-05-30 20:10:27 +0000"
+    },
+    "done": false
+  },
   "obs:ob/coal": {
     "criteria": {
       "requirement": "2025-05-30 19:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-30 20:11:07 +0000"
     },
     "done": true
   },
@@ -7829,6 +7842,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-30 20:09:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-05-30 20:09:56 +0000"
+    },
+    "done": true
+  },
   "obs:phases/phase_3": {
     "criteria": {
       "requirement": "2025-05-30 19:19:56 +0000"
@@ -7840,6 +7865,12 @@
       "requirement": "2025-05-30 19:47:30 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2025-05-30 20:11:07 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3953
 }
