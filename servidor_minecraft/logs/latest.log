@@ -343,3 +343,7 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [21:29:11] [Server thread/INFO]: FayeaMC has made the advancement [Suit Up]
 [21:29:15] [Server thread/INFO]: [Not Secure] <aleufq> una perchera nd mas pal logri
 [21:29:21] [Server thread/INFO]: [Not Secure] <aleufq> logro*
+[21:36:13] [Server thread/INFO]: Villager cmk['Mysterious Trader 🧪'/4024, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[21:36:13] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/4024, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[21:39:42] [Server thread/INFO]: aleufq has made the advancement [Step 8]
+[21:39:42] [Server thread/INFO]: FayeaMC has made the advancement [Step 8]

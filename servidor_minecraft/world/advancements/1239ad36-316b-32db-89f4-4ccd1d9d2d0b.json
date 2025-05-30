@@ -7979,6 +7979,12 @@
     },
     "done": true
   },
+  "obs:phases/phase_8": {
+    "criteria": {
+      "requirement": "2025-05-30 21:39:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-30 20:52:48 +0000"
