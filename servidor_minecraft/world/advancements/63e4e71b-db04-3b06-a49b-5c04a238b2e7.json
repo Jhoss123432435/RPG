@@ -7870,7 +7870,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2025-05-30 20:11:07 +0000",
-      "dried_kelp": "2025-05-30 20:30:22 +0000"
+      "dried_kelp": "2025-05-30 20:30:22 +0000",
+      "carrot": "2025-05-30 21:05:06 +0000"
     },
     "done": false
   },
@@ -8084,6 +8085,12 @@
     },
     "done": true
   },
+  "obs:ob/mob": {
+    "criteria": {
+      "requirement": "2025-05-30 21:05:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-30 20:51:37 +0000"
@@ -8093,6 +8100,24 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-30 20:47:58 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_7": {
+    "criteria": {
+      "requirement": "2025-05-30 20:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-30 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/diamond": {
+    "criteria": {
+      "requirement": "2025-05-30 20:56:19 +0000"
     },
     "done": true
   },
