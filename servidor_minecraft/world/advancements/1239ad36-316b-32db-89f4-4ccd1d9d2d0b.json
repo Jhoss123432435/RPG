@@ -7859,6 +7859,18 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-30 21:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-30 21:42:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-05-30 21:14:10 +0000"
@@ -7990,6 +8002,12 @@
       "has_bed": "2025-05-30 20:52:48 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2025-05-30 21:42:29 +0000"
+    },
+    "done": false
   },
   "minecraft:story/mine_diamond": {
     "criteria": {
