@@ -7757,15 +7757,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "obs:phases/phase_2": {
     "criteria": {
-      "traded": "2025-05-30 17:27:00 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/plant": {
-    "criteria": {
-      "requirement": "2025-05-30 17:27:03 +0000"
+      "requirement": "2025-05-30 17:22:33 +0000"
     },
     "done": true
   },
@@ -7775,15 +7769,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-30 17:27:00 +0000"
+    },
+    "done": true
+  },
   "obs:ob/sapling": {
     "criteria": {
       "requirement": "2025-05-30 17:27:01 +0000"
     },
     "done": true
   },
-  "obs:phases/phase_2": {
+  "obs:ob/plant": {
     "criteria": {
-      "requirement": "2025-05-30 17:22:33 +0000"
+      "requirement": "2025-05-30 17:27:03 +0000"
     },
     "done": true
   },
