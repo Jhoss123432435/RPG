@@ -352,3 +352,18 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [21:49:25] [Server thread/INFO]: aleufq has made the advancement [Hidden in the Depths]
 [21:53:55] [Server thread/INFO]: Villager cmk['Mysterious Trader 🧪'/4556, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
 [21:53:55] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/4556, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[22:05:04] [Server thread/INFO]: Gave 3 [Cow Spawn Egg] to FayeaMC
+[22:05:04] [Server thread/INFO]: Gave 1 [Pig Spawn Egg] to FayeaMC
+[22:05:04] [Server thread/INFO]: Gave 1 [Chicken Spawn Egg] to FayeaMC
+[22:05:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:05:05] [Server thread/INFO]: <--[HERE]
+[22:05:10] [Server thread/INFO]: Gave 3 [Cow Spawn Egg] to FayeaMC
+[22:05:10] [Server thread/INFO]: Gave 1 [Pig Spawn Egg] to FayeaMC
+[22:05:10] [Server thread/INFO]: Gave 1 [Chicken Spawn Egg] to FayeaMC
+[22:05:37] [Server thread/INFO]: FayeaMC has made the advancement [I meat with you, and won]
+[22:06:18] [Server thread/INFO]: FayeaMC has made the advancement [The Parrots and the Bats]
+[22:08:42] [Server thread/INFO]: FayeaMC has made the advancement [A Seedy Place]
+[22:08:56] [Server thread/INFO]: Villager cmk['Mysterious Trader 🧪'/4803, l='ServerLevel[Oneblock Original v3]', x=1.55, y=-1028.51, z=-1.40] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[22:08:56] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/4803, l='ServerLevel[Oneblock Original v3]', x=1.55, y=-1028.51, z=-1.40] died: Mysterious Trader 🧪 fell out of the world
+[22:08:56] [Server thread/INFO]: Villager cmk['Mysterious Trader 🧪'/5009, l='ServerLevel[Oneblock Original v3]', x=-0.81, y=-1048.16, z=2.87] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[22:08:56] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/5009, l='ServerLevel[Oneblock Original v3]', x=-0.81, y=-1048.16, z=2.87] died: Mysterious Trader 🧪 fell out of the world

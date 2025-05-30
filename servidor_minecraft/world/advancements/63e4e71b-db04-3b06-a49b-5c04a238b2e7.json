@@ -8097,6 +8097,12 @@
     },
     "done": true
   },
+  "obs:ob/holy_cow": {
+    "criteria": {
+      "requirement": "2025-05-30 22:05:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-30 20:51:37 +0000"
@@ -8115,6 +8121,24 @@
       "carrot": "2025-05-30 21:20:43 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-30 22:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-05-30 22:06:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-30 22:08:42 +0000"
+    },
+    "done": true
   },
   "obs:phases/phase_7": {
     "criteria": {
