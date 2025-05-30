@@ -257,3 +257,10 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [20:08:01] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/788, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
 [20:09:56] [Server thread/INFO]: FayeaMC has made the advancement [Monster Hunter]
 [20:10:25] [Server thread/INFO]: aleufq was slain by Zombie Villager
+[20:13:49] [Server thread/INFO]: Villager cmk['Mysterious Trader 🧪'/1006, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[20:13:49] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/1006, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[20:14:42] [Server thread/INFO]: FayeaMC has made the advancement [Creeper. Aw Man!]
+[20:18:02] [Server thread/INFO]: Villager cmk['Mysterious Trader 🧪'/1208, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[20:18:02] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/1208, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[20:18:49] [Server thread/INFO]: FayeaMC has made the advancement [Step 5]
+[20:18:49] [Server thread/INFO]: aleufq has made the advancement [Step 5]

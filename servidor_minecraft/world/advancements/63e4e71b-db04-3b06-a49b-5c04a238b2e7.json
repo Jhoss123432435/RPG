@@ -7787,6 +7787,12 @@
     },
     "done": true
   },
+  "obs:ob/creeper": {
+    "criteria": {
+      "requirement": "2025-05-30 20:14:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-05-30 19:20:08 +0000"
@@ -7802,6 +7808,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-05-30 20:09:56 +0000",
+      "minecraft:creeper": "2025-05-30 20:14:42 +0000",
       "minecraft:zombie_villager": "2025-05-30 20:10:27 +0000"
     },
     "done": false
@@ -7863,6 +7870,12 @@
   "obs:phases/phase_4": {
     "criteria": {
       "requirement": "2025-05-30 19:47:30 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_5": {
+    "criteria": {
+      "requirement": "2025-05-30 20:18:49 +0000"
     },
     "done": true
   },
