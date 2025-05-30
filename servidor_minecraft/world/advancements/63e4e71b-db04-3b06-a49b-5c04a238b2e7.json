@@ -7793,6 +7793,24 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-30 19:59:06 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/coal": {
+    "criteria": {
+      "requirement": "2025-05-30 19:47:59 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/furnace": {
+    "criteria": {
+      "requirement": "2025-05-30 19:47:50 +0000"
+    },
+    "done": true
+  },
   "obs:ob/cobblemania": {
     "criteria": {
       "requirement": "2025-05-30 19:20:08 +0000"
@@ -7805,9 +7823,21 @@
     },
     "done": true
   },
+  "obs:ob/iron": {
+    "criteria": {
+      "requirement": "2025-05-30 19:59:06 +0000"
+    },
+    "done": true
+  },
   "obs:phases/phase_3": {
     "criteria": {
       "requirement": "2025-05-30 19:19:56 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_4": {
+    "criteria": {
+      "requirement": "2025-05-30 19:47:30 +0000"
     },
     "done": true
   },

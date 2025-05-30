@@ -7769,6 +7769,24 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-30 19:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-05-30 19:53:04 +0000"
+    },
+    "done": false
+  },
+  "obs:ob/coal": {
+    "criteria": {
+      "requirement": "2025-05-30 19:48:29 +0000"
+    },
+    "done": true
+  },
   "obs:ob/sapling": {
     "criteria": {
       "requirement": "2025-05-30 19:42:30 +0000"
@@ -7784,6 +7802,30 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-05-30 19:39:03 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/iron": {
+    "criteria": {
+      "requirement": "2025-05-30 19:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-30 19:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-05-30 19:53:04 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_4": {
+    "criteria": {
+      "requirement": "2025-05-30 19:47:30 +0000"
     },
     "done": true
   },
