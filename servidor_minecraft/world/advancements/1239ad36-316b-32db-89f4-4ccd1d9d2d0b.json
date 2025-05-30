@@ -7793,6 +7793,12 @@
     },
     "done": true
   },
+  "obs:ob/redstone": {
+    "criteria": {
+      "requirement": "2025-05-30 20:38:52 +0000"
+    },
+    "done": true
+  },
   "obs:ob/sapling": {
     "criteria": {
       "requirement": "2025-05-30 19:42:30 +0000"
@@ -7844,6 +7850,12 @@
   "obs:phases/phase_5": {
     "criteria": {
       "requirement": "2025-05-30 20:18:49 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_6": {
+    "criteria": {
+      "requirement": "2025-05-30 20:38:26 +0000"
     },
     "done": true
   },
