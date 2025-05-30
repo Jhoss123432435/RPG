@@ -217,3 +217,16 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [17:27:00] [Server thread/INFO]: FayeaMC has made the advancement [What a Deal!]
 [17:27:01] [Server thread/INFO]: FayeaMC has made the advancement [Woodlands]
 [17:27:03] [Server thread/INFO]: FayeaMC has made the advancement [#PlantATree]
+[17:39:08] [Server thread/INFO]: FayeaMC lost connection: Disconnected
+[17:39:08] [Server thread/INFO]: FayeaMC left the game
+[17:39:31] [Server thread/INFO]: Stopping the server
+[17:39:31] [Server thread/INFO]: Stopping server
+[17:39:31] [Server thread/INFO]: Saving players
+[17:39:31] [Server thread/INFO]: Saving worlds
+[17:39:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Oneblock Original v3]'/minecraft:overworld
+[17:39:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Oneblock Original v3]'/minecraft:the_end
+[17:39:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Oneblock Original v3]'/minecraft:the_nether
+[17:39:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:39:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:39:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:39:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
