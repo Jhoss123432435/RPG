@@ -8085,6 +8085,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-30 21:29:11 +0000"
+    },
+    "done": true
+  },
   "obs:ob/mob": {
     "criteria": {
       "requirement": "2025-05-30 21:05:51 +0000"
