@@ -2357,12 +2357,6 @@
     },
     "done": true
   },
-  "obs:phases/root": {
-    "criteria": {
-      "requirement": "2025-05-30 15:51:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-05-30 15:49:46 +0000"
@@ -6767,12 +6761,6 @@
     },
     "done": true
   },
-  "obs:phases/phase_1": {
-    "criteria": {
-      "requirement": "2025-05-30 15:53:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_the_recipe": "2025-05-30 15:49:46 +0000"
@@ -7487,12 +7475,6 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-05-30 15:55:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2025-05-30 15:49:46 +0000"
@@ -7754,6 +7736,30 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_the_recipe": "2025-05-30 15:49:46 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/root": {
+    "criteria": {
+      "requirement": "2025-05-30 15:51:40 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_1": {
+    "criteria": {
+      "requirement": "2025-05-30 15:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-30 15:55:54 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_2": {
+    "criteria": {
+      "requirement": "2025-05-30 17:22:33 +0000"
     },
     "done": true
   },
