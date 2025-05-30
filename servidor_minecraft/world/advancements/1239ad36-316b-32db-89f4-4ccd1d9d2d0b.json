@@ -2357,12 +2357,6 @@
     },
     "done": true
   },
-  "obs:phases/root": {
-    "criteria": {
-      "requirement": "2025-05-30 19:18:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-05-30 19:18:00 +0000"
@@ -6629,12 +6623,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2025-05-30 19:18:01 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/dye_cyan_carpet": {
     "criteria": {
       "has_the_recipe": "2025-05-30 19:18:00 +0000"
@@ -6764,24 +6752,6 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_the_recipe": "2025-05-30 19:18:00 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/phase_1": {
-    "criteria": {
-      "requirement": "2025-05-30 19:18:47 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/phase_2": {
-    "criteria": {
-      "requirement": "2025-05-30 19:18:47 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/phase_3": {
-    "criteria": {
-      "requirement": "2025-05-30 19:19:56 +0000"
     },
     "done": true
   },
@@ -7760,6 +7730,48 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_the_recipe": "2025-05-30 19:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-05-30 19:18:01 +0000"
+    },
+    "done": false
+  },
+  "obs:phases/root": {
+    "criteria": {
+      "requirement": "2025-05-30 19:18:47 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_1": {
+    "criteria": {
+      "requirement": "2025-05-30 19:18:47 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_2": {
+    "criteria": {
+      "requirement": "2025-05-30 19:18:47 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_3": {
+    "criteria": {
+      "requirement": "2025-05-30 19:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-30 19:33:35 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/cobblemania": {
+    "criteria": {
+      "requirement": "2025-05-30 19:33:35 +0000"
     },
     "done": true
   },

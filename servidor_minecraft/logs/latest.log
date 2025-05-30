@@ -228,3 +228,10 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [19:26:20] [Server thread/INFO]: FayeaMC has made the advancement [Getting an Upgrade]
 [19:31:45] [Server thread/INFO]: aleufq[/100.101.13.49:57190] logged in with entity id 171 at (-2.3036276126643385, 61.0, -1.804579469647223)
 [19:31:45] [Server thread/INFO]: aleufq joined the game
+[19:32:49] [Server thread/INFO]: Villager cmk['Mysterious Trader 🧪'/39, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[19:32:49] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/39, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[19:33:35] [Server thread/INFO]: aleufq has made the advancement [Stone Age]
+[19:33:35] [Server thread/INFO]: aleufq has made the advancement [Cobblemania]
+[19:39:03] [Server thread/INFO]: aleufq has made the advancement [Getting an Upgrade]
+[19:40:42] [Server thread/INFO]: Villager cmk['Mysterious Trader 🧪'/198, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[19:40:42] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/198, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
