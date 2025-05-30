@@ -367,3 +367,5 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22:08:56] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/4803, l='ServerLevel[Oneblock Original v3]', x=1.55, y=-1028.51, z=-1.40] died: Mysterious Trader 🧪 fell out of the world
 [22:08:56] [Server thread/INFO]: Villager cmk['Mysterious Trader 🧪'/5009, l='ServerLevel[Oneblock Original v3]', x=-0.81, y=-1048.16, z=2.87] died, message: 'Mysterious Trader 🧪 fell out of the world'
 [22:08:56] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/5009, l='ServerLevel[Oneblock Original v3]', x=-0.81, y=-1048.16, z=2.87] died: Mysterious Trader 🧪 fell out of the world
+[22:17:24] [Server thread/INFO]: aleufq has made the advancement [Into the Darkness]
+[22:17:27] [Server thread/INFO]: aleufq fell out of the world
