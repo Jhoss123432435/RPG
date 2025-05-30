@@ -7841,9 +7841,27 @@
     },
     "done": true
   },
+  "obs:ob/farmer": {
+    "criteria": {
+      "potato": "2025-05-30 21:15:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-30 20:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-30 21:14:10 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/plant": {
+    "criteria": {
+      "requirement": "2025-05-30 21:20:31 +0000"
     },
     "done": true
   },

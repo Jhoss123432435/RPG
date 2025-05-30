@@ -8103,6 +8103,12 @@
     },
     "done": true
   },
+  "obs:ob/farmer": {
+    "criteria": {
+      "carrot": "2025-05-30 21:20:43 +0000"
+    },
+    "done": false
+  },
   "obs:phases/phase_7": {
     "criteria": {
       "requirement": "2025-05-30 20:55:42 +0000"
