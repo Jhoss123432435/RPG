@@ -281,3 +281,21 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [20:40:11] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/1955, l='ServerLevel[Oneblock Original v3]', x=0.99, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
 [20:42:06] [Server thread/INFO]: [Not Secure] <aleufq> JAJAJJSJ
 [20:42:12] [Server thread/INFO]: [Not Secure] <aleufq> por el momento no podre hablar+
+[20:42:17] [Server thread/INFO]: [Not Secure] <aleufq> t escucho
+[20:44:39] [Server thread/INFO]: FayeaMC lost connection: Disconnected
+[20:44:39] [Server thread/INFO]: FayeaMC left the game
+[20:44:46] [Server thread/INFO]: FayeaMC[/100.102.52.63:60042] logged in with entity id 2541 at (3.680730053102423, -46.672931906148094, -7.314955249764255)
+[20:44:46] [Server thread/INFO]: FayeaMC joined the game
+[20:44:51] [Server thread/INFO]: FayeaMC fell out of the world
+[20:46:24] [Server thread/INFO]: Unknown item 'minicraf:hierro'
+[20:46:24] [Server thread/INFO]: ...e FayeaMC minicraf:hierro 45<--[HERE]
+[20:47:20] [Server thread/INFO]: Unknown selector type '@F'
+[20:47:20] [Server thread/INFO]: give @FayeaMC minecraft:iron_ingot 128<--[HERE]
+[20:47:25] [Server thread/INFO]: Unknown selector type '@F'
+[20:47:25] [Server thread/INFO]: give @FayeaMC minecraft:iron_ingot 64<--[HERE]
+[20:47:40] [Server thread/INFO]: Gave 64 [Iron Ingot] to FayeaMC
+[20:47:58] [Server thread/INFO]: FayeaMC has made the advancement [Sweet Dreams]
+[20:49:45] [Server thread/INFO]: [Not Secure] <aleufq> tienes hierro?? pcupo otro pico
+[20:51:37] [Server thread/INFO]: FayeaMC has made the advancement [Isn't It Iron Pick]
+[20:51:38] [Server thread/INFO]: Villager cmk['Mysterious Trader 🧪'/2122, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1013.25, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[20:51:38] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/2122, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1013.25, z=0.50] died: Mysterious Trader 🧪 fell out of the world

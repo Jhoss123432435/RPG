@@ -7787,6 +7787,111 @@
     },
     "done": true
   },
+  "obs:phases/phase_3": {
+    "criteria": {
+      "requirement": "2025-05-30 19:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-30 19:20:08 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/cobblemania": {
+    "criteria": {
+      "requirement": "2025-05-30 19:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-30 19:26:20 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_4": {
+    "criteria": {
+      "requirement": "2025-05-30 19:47:30 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/furnace": {
+    "criteria": {
+      "requirement": "2025-05-30 19:47:50 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/coal": {
+    "criteria": {
+      "requirement": "2025-05-30 19:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-30 19:59:06 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/iron": {
+    "criteria": {
+      "requirement": "2025-05-30 19:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-05-30 20:09:56 +0000",
+      "minecraft:creeper": "2025-05-30 20:14:42 +0000",
+      "minecraft:zombie_villager": "2025-05-30 20:10:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-30 20:09:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-05-30 20:09:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-30 20:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2025-05-30 20:11:07 +0000",
+      "dried_kelp": "2025-05-30 20:30:22 +0000"
+    },
+    "done": false
+  },
+  "obs:ob/creeper": {
+    "criteria": {
+      "requirement": "2025-05-30 20:14:42 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_5": {
+    "criteria": {
+      "requirement": "2025-05-30 20:18:49 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/glistening": {
+    "criteria": {
+      "requirement": "2025-05-30 20:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-05-30 20:35:46 +0000"
@@ -7799,12 +7904,6 @@
     },
     "done": true
   },
-  "obs:ob/creeper": {
-    "criteria": {
-      "requirement": "2025-05-30 20:14:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2025-05-30 20:35:46 +0000"
@@ -7812,6 +7911,72 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-30 20:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-30 20:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-30 20:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-30 20:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-30 20:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-30 20:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-30 20:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-30 20:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-30 20:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-30 20:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-30 20:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-05-30 20:35:46 +0000"
     },
@@ -7829,12 +7994,6 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-05-30 19:20:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-30 20:36:09 +0000"
@@ -7844,18 +8003,6 @@
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-30 20:36:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_wool": {
-    "criteria": {
-      "has_white_wool": "2025-05-30 20:35:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-05-30 19:59:06 +0000"
     },
     "done": true
   },
@@ -7871,29 +8018,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:spider": "2025-05-30 20:09:56 +0000",
-      "minecraft:creeper": "2025-05-30 20:14:42 +0000",
-      "minecraft:zombie_villager": "2025-05-30 20:10:27 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-30 20:36:09 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/coal": {
-    "criteria": {
-      "requirement": "2025-05-30 19:47:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_wool": {
-    "criteria": {
-      "has_white_wool": "2025-05-30 20:35:46 +0000"
     },
     "done": true
   },
@@ -7903,39 +8030,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_wool": {
-    "criteria": {
-      "has_white_wool": "2025-05-30 20:35:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-05-30 20:11:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_wool": {
-    "criteria": {
-      "has_white_wool": "2025-05-30 20:35:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-30 20:36:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_wool": {
-    "criteria": {
-      "has_white_wool": "2025-05-30 20:35:46 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/redstone": {
-    "criteria": {
-      "requirement": "2025-05-30 20:39:48 +0000"
     },
     "done": true
   },
@@ -7951,45 +8048,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_wool": {
-    "criteria": {
-      "has_white_wool": "2025-05-30 20:35:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_wool": {
-    "criteria": {
-      "has_white_wool": "2025-05-30 20:35:46 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/furnace": {
-    "criteria": {
-      "requirement": "2025-05-30 19:47:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_wool": {
-    "criteria": {
-      "has_white_wool": "2025-05-30 20:35:46 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/cobblemania": {
-    "criteria": {
-      "requirement": "2025-05-30 19:20:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-30 20:36:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-05-30 19:26:20 +0000"
     },
     "done": true
   },
@@ -7999,51 +8060,15 @@
     },
     "done": true
   },
-  "obs:ob/glistening": {
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
-      "requirement": "2025-05-30 20:24:07 +0000"
+      "has_bed": "2025-05-30 20:36:09 +0000"
     },
     "done": true
   },
-  "obs:ob/iron": {
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
-      "requirement": "2025-05-30 19:59:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-05-30 20:09:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_wool": {
-    "criteria": {
-      "has_white_wool": "2025-05-30 20:35:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:spider": "2025-05-30 20:09:56 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/phase_3": {
-    "criteria": {
-      "requirement": "2025-05-30 19:19:56 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/phase_4": {
-    "criteria": {
-      "requirement": "2025-05-30 19:47:30 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/phase_5": {
-    "criteria": {
-      "requirement": "2025-05-30 20:18:49 +0000"
+      "has_bed": "2025-05-30 20:36:09 +0000"
     },
     "done": true
   },
@@ -8053,34 +8078,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+  "obs:ob/redstone": {
     "criteria": {
-      "has_bed": "2025-05-30 20:36:09 +0000"
+      "requirement": "2025-05-30 20:39:48 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "rotten_flesh": "2025-05-30 20:11:07 +0000",
-      "dried_kelp": "2025-05-30 20:30:22 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/lime_wool": {
-    "criteria": {
-      "has_white_wool": "2025-05-30 20:35:46 +0000"
+      "iron_pickaxe": "2025-05-30 20:51:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_wool": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_white_wool": "2025-05-30 20:35:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-05-30 20:36:09 +0000"
+      "slept_in_bed": "2025-05-30 20:47:58 +0000"
     },
     "done": true
   },
